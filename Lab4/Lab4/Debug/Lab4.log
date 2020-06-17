@@ -1,0 +1,5 @@
+﻿  Lab4.cpp
+c:\users\user\desktop\универ\лабораторные\лабы ппи\lab4\lab4\lab4.cpp(123): warning C4101: button_index: неиспользованная локальная переменная
+c:\users\user\desktop\универ\лабораторные\лабы ппи\lab4\lab4\lab4.cpp(122): warning C4101: window_style: неиспользованная локальная переменная
+c:\users\user\desktop\универ\лабораторные\лабы ппи\lab4\lab4\lab4.cpp(241): warning C4101: window: неиспользованная локальная переменная
+  Lab4.vcxproj -> C:\Users\user\Desktop\Универ\Лабораторные\Лабы ППИ\Lab4\Debug\Lab4.exe
